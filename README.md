@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @subhodip-Sarkar99
-- 👀 I’m interested in ...web development
+- 👋 Hi, I’m @Subhodip Sarkar
+- 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...some projects that will land me a job in Web development
 - 📫 How to reach me ...Email: subhodip07sarkar@gmail.com
