@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhodip Sarkar
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently diving deeper to learn more about web dev and cloud technologies
 - 💞️ I’m looking to collaborate on ...some projects that will land me a job in Web development
 - 📫 How to reach me ...Email: subhodip07sarkar@gmail.com
 - 😄 Pronouns: ...(He/His)
